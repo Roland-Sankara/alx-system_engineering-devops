@@ -43,3 +43,6 @@ This file/script lists all files in the current directory, parent of the working
 
 ## 12-file_type
 This file/script prints the type of file named
+
+### 13-symbolic_link
+This file/script creates a symbolic link.
