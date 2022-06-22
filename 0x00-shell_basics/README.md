@@ -49,3 +49,6 @@ This file/script creates a symbolic link
 
 ## 14-copyhtml
 This file/script create copies of all the HTML
+
+## 100-lets_move
+This file/script that moves files that start with an uppercase character to 
