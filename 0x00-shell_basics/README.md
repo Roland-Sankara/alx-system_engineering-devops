@@ -37,3 +37,6 @@ This file/script deletes the my_first_directory folder/directory
 
 ### 10-back
 This file/script changes the working directory to the preioud ones
+
+### 11-lists
+This file/script lists all files in the current directory, parent of the working directory and /boot
