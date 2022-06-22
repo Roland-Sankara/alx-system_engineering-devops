@@ -22,3 +22,6 @@ This file/script displays current directory contents in;
 - long foramt
 - with user and group IDs displayed numerically
 - and hidden files (Starting with .)
+
+### 6-firstdirectory
+This file/script creates a directory named my_first_directory in /tmp/
