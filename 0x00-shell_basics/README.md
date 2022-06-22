@@ -54,4 +54,7 @@ This file/script create copies of all the HTML
 This file/script that moves files that start with an uppercase character to 
 
 ## 101-clean_emacs
-This file/script clean all the emacs in the current directory.
+This file/script clean all the emacs in the current directoryear
+
+## 102-tree
+This scriptcreate directories
