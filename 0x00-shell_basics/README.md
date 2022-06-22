@@ -34,3 +34,6 @@ This file/script delete the file betty from the /tmp folder
 
 ### 9-firstdirdeletion
 This file/script deletes the my_first_directory folder/directory
+
+### 10-back
+This file/script changes the working directory to the preioud ones
