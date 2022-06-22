@@ -40,3 +40,6 @@ This file/script changes the working directory to the preioud ones
 
 ### 11-lists
 This file/script lists all files in the current directory, parent of the working directory and /boot
+
+## 12-file_type
+This file/script prints the type of file named
