@@ -29,5 +29,8 @@ This file/script creates a directory named my_first_directory in /tmp
 ### 7-movethatfile
 This file/script moves file betty from tmp to/tmp/my_first_directory
 
-### *-firstdelete
+### 8-firstdelete
 This file/script delete the file betty from the /tmp folder
+
+### 9-firstdirdeletion
+This file/script deletes the my_first_directory folder/directory
