@@ -45,4 +45,7 @@ This file/script lists all files in the current directory, parent of the working
 This file/script prints the type of file named
 
 ### 13-symbolic_link
-This file/script creates a symbolic link.
+This file/script creates a symbolic link
+
+## 14-copyhtml
+This file/script create copies of all the HTML
