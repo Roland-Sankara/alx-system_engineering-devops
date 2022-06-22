@@ -52,3 +52,6 @@ This file/script create copies of all the HTML
 
 ## 100-lets_move
 This file/script that moves files that start with an uppercase character to 
+
+## 101-clean_emacs
+This file/script clean all the emacs in the current directory.
