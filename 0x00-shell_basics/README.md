@@ -24,4 +24,7 @@ This file/script displays current directory contents in;
 - and hidden files (Starting with .)
 
 ### 6-firstdirectory
-This file/script creates a directory named my_first_directory in /tmp/
+This file/script creates a directory named my_first_directory in /tmp
+
+### 7-movethatfile
+This file/script moves file betty from tmp to/tmp/my_first_directory
