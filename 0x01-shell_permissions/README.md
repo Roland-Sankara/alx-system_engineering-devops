@@ -21,3 +21,6 @@ This script adds the execute file permission to the hellofile owner. It uses the
 
 ## 6-multiple_permissions
 This script is used to update the hello file permissions for the owner, group and others.
+
+## 7-everybody 
+This script gives the owner, group and others execution permission over a file called hello. The command use is `chmod`.
