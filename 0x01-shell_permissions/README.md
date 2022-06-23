@@ -48,3 +48,6 @@ This script changes the owner and group of all the files and directories in the 
 
 ## 101-Symbolic_link_permission
 This script chnages the ownership and group of a symbolic link. This by using the `chown -h user:group link`
+
+## 102-if_only
+This script will update the file owner only if the current owner is verified. It uses the command `chown --from=current-owner new-owner file`
