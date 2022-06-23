@@ -36,3 +36,6 @@ This script will update the file mode for hello file with that of olleh. This is
 
 ## 11-directories_permissions
 This script will update the permissions of the subfolders. This uses the commsnd `chmod`togther with the `find` command.
+
+## 12-directory_permissions
+This script helps to create a directory and them set it's permissions.
