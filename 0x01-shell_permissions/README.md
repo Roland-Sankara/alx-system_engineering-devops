@@ -12,3 +12,6 @@ This script lists all the groups that the current logged In user belongs to.
 
 ## 3-new_owner
 This script changes the file owner with the use of the `chown` command.
+
+## 4-empty
+This script creates an empty file with the help of the `touch` command.
