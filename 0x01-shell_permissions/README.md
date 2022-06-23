@@ -27,3 +27,6 @@ This script gives the owner, group and others execution permission over a file c
 
 ## 8-James_Bond
 This script sets all users to have all file permissions while the owner and the group have none
+
+## 9-John_Doe
+This script updates a users files permissions using the `chmod` command
