@@ -39,3 +39,6 @@ This script will update the permissions of the subfolders. This uses the commsnd
 
 ## 12-directory_permissions
 This script helps to create a directory and them set it's permissions.
+
+## 13-chnage_group
+This script changes the group to which the file belongs using the `chgrp` command
