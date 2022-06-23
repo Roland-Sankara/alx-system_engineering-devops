@@ -33,3 +33,6 @@ This script updates a users files permissions using the `chmod` command
 
 ## 10-mirror_permissions
 This script will update the file mode for hello file with that of olleh. This is done with the `chmod --reference=filename filename`
+
+## 11-directories_permissions
+This script will update the permissions of the subfolders. This uses the commsnd `chmod`togther with the `find` command.
