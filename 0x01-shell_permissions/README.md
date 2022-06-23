@@ -30,3 +30,6 @@ This script sets all users to have all file permissions while the owner and the 
 
 ## 9-John_Doe
 This script updates a users files permissions using the `chmod` command
+
+## 10-mirror_permissions
+This script will update the file mode for hello file with that of olleh. This is done with the `chmod --reference=filename filename`
