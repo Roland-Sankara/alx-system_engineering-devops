@@ -42,3 +42,6 @@ This script helps to create a directory and them set it's permissions.
 
 ## 13-chnage_group
 This script changes the group to which the file belongs using the `chgrp` command
+
+## 100-Change_owner_and_group
+This script changes the owner and group of all the files and directories in the current working directory. It uses the command `chown -R username:groupname directoryname`
