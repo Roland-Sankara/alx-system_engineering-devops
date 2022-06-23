@@ -24,3 +24,6 @@ This script is used to update the hello file permissions for the owner, group an
 
 ## 7-everybody 
 This script gives the owner, group and others execution permission over a file called hello. The command use is `chmod`.
+
+## 8-James_Bond
+This script sets all users to have all file permissions while the owner and the group have none
