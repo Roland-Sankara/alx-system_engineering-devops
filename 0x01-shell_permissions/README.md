@@ -6,3 +6,6 @@ This script changes the current user to betty. It use the `su` command (Switch U
 
 ## 1-who_am_i
 This script prints the username of the current user. Its uses the `whoami` command to do this.
+
+## 2-groups
+This script lists all the groups that the current logged In user belongs to.
