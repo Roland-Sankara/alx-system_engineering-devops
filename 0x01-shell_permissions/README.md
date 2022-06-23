@@ -15,3 +15,6 @@ This script changes the file owner with the use of the `chown` command.
 
 ## 4-empty
 This script creates an empty file with the help of the `touch` command.
+
+## 5-execute
+This script adds the execute file permission to the hellofile owner. It uses the `chmod` commad to achive that. The options passed are `u+x`: u represent the file owner and +x adds the executes permission.
