@@ -27,3 +27,6 @@ This script writes the output of the command `ls -la` into the file ls_cwd_conte
 
 ### 9-duplicate_last_line
 This script duplicate the last ine of the file iacta. It uses the tail command to get the last linein the file and appends it to the file iacta
+
+### 10-no_more_js
+This script deletes all js files in the current directory. It uses the find command 
