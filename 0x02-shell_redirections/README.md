@@ -18,3 +18,6 @@ This script displays the last 10 lines of the /etc/passwd file.This is by the he
 
 ### 5-firstlines
 This scrit displays the fist 10 lines of the /etc/passwd file. Uses the head command
+
+### 6-third_line
+This script displays the third line of the file iacta. It uses a pipeline of command: cat head and tail
