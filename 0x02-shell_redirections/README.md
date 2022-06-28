@@ -24,3 +24,6 @@ This script displays the third line of the file iacta. It uses a pipeline of com
 
 ### 8-cwd_state
 This script writes the output of the command `ls -la` into the file ls_cwd_content. This is by using the `ls -la > ls_cwd_content`
+
+### 9-duplicate_last_line
+This script duplicate the last ine of the file iacta. It uses the tail command to get the last linein the file and appends it to the file iacta
