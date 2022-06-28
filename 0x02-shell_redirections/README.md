@@ -21,3 +21,6 @@ This scrit displays the fist 10 lines of the /etc/passwd file. Uses the head com
 
 ### 6-third_line
 This script displays the third line of the file iacta. It uses a pipeline of command: cat head and tail
+
+### 8-cwd_state
+This script writes the output of the command `ls -la` into the file ls_cwd_content. This is by using the `ls -la > ls_cwd_content`
