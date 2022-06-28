@@ -9,3 +9,6 @@ This script displays a confused smiley to the standard output. It uses the echo 
 
 ### 2-hellofile
 This script displays the content of the /etc/passwd file. It used the cat command.
+
+## 3-twofiles
+This script displays the contents of two files. /ectc/passwd and /etc/hosts with the helpf of the cat command.
