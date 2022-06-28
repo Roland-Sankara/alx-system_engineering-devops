@@ -30,3 +30,6 @@ This script duplicate the last ine of the file iacta. It uses the tail command t
 
 ### 10-no_more_js
 This script deletes all js files in the current directory. It uses the find command 
+
+### 11-directories
+This script counts number of directories and sub-directories in the current directory.
