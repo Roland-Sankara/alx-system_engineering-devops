@@ -15,3 +15,6 @@ This script displays the contents of two files. /ectc/passwd and /etc/hosts with
 
 ### 4-lastlines
 This script displays the last 10 lines of the /etc/passwd file.This is by the help of the tail command.
+
+### 5-firstlines
+This scrit displays the fist 10 lines of the /etc/passwd file. Uses the head command
