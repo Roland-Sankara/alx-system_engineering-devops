@@ -12,3 +12,6 @@ This script displays the content of the /etc/passwd file. It used the cat comman
 
 ## 3-twofiles
 This script displays the contents of two files. /ectc/passwd and /etc/hosts with the helpf of the cat command.
+
+### 4-lastlines
+This script displays the last 10 lines of the /etc/passwd file.This is by the help of the tail command.
